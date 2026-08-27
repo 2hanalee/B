@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0.0",
+  "ranks": [
+    {
+      "id": "rank.s",
+      "label": "S",
+      "order": 1,
+      "official": true,
+      "description": "협회 공식 5단계 등급."
+    },
+    {
+      "id": "rank.a",
+      "label": "A",
+      "order": 2,
+      "official": true,
+      "description": "협회 공식 5단계 등급."
+    },
+    {
+      "id": "rank.b",
+      "label": "B",
+      "order": 3,
+      "official": true,
+      "description": "협회 공식 5단계 등급."
+    },
+    {
+      "id": "rank.c",
+      "label": "C",
+      "order": 4,
+      "official": true,
+      "description": "협회 공식 5단계 등급."
+    },
+    {
+      "id": "rank.d",
+      "label": "D",
+      "order": 5,
+      "official": true,
+      "description": "협회 공식 5단계 등급."
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "schema_version": "1.0.0",
+  "locations": [
+    {
+      "id": "location.district-01",
+      "type": "location",
+      "district_number": 1,
+      "name": "상층부",
+      "alias": "베일가르드",
+      "description": "구름보다 낮게 뜬 인공 지반 위에 세워진 도시의 정수리. 명가와 자본이 대를 이어 세습되는 곳으로, 지상에서 여기까지 오르는 승강로는 혈통이나 재산 증명 없이는 발판조차 밟을 수 없다. 건물들은 하나같이 오래된 문장紋章을 정문에 새기고 있으며, 거리의 조도照度마저 다른 구역보다 한 단계 밝게 설계되어 있다. 로열이나 아우라 같은 명가 출신 히어로들의 본가가 이곳에 있으나, 정작 이들은 자신의 소속을 자랑하기보다 숨기는 쪽을 택하는 경우가 많다. 이 구역의 진짜 권력은 협회보다 오래되었고, 협회는 그 사실을 굳이 입 밖에 내지 않는다.",
+      "status": "normal",
+      "anomalies": [],
+      "organization_ids": [],
+      "character_ids": [],
+      "event_ids": [],
+      "tags": [
+        "district-01"
+      ],
+      "provenance": {
+        "source_document": "비키니 시티 1차(1).docx",
+        "source_section": "비키니시티 지역 설정 — 1~8구역",
+        "source_index": 1,
+        "paragraph_start": 814,
+        "paragraph_end": 815
+      }
+    },
+    {
+      "id": "location.district-02",
+      "type": "location",
+      "district_number": 2,
+      "name": "메인 시티",
+      "alias": "센트룸",
+      "description": "비키니시티의 얼굴이자 관광 엽서에 가장 많이 등장하는 풍경. 거대 스크린과 홀로그램 광고가 밤낮없이 하늘을 채우고, 방송국과 기획사, 최신 유행의 카페가 밀집해 있다. 시그널 같은 인플루언서형 히어로들이 주요 활동 무대로 삼는 곳이며, 협회의 공식 홍보 이벤트도 대개 이 구역 광장에서 열린다. 화려함은 이 구역의 자산이자 결점이다. 카메라가 닿는 자리에서 일어난 사건은 순식간에 전 도시로 퍼지지만, 카메라가 닿지 않는 뒷골목 하나쯤은 이 화려함 속에서도 얼마든지 숨을 자리를 찾는다.",
+      "status": "normal",
+      "anomalies": [],
+      "organization_ids": [
+        "organization.public-relations-office"
+      ],
+      "character_ids": [],
+      "event_ids": [],
+      "tags": [
+        "district-02"
+      ],
+      "provenance": {
+        "source_document": "비키니 시티 1차(1).docx",
+        "source_section": "비키니시티 지역 설정 — 1~8구역",
+        "source_index": 2,
+        "paragraph_start": 816,
+        "paragraph_end": 817
+      }
+    },
+    {
+      "id": "location.district-03",
+      "type": "location",
+      "district_number": 3,
+      "name": "협회 지구",
+      "alias": null,
+      "description": "비키니시티 히어로 협회 본부와 산하 훈련소, 등록 관리국, 기술개발팀 시설이 모여 있는 행정 중심지. 도시의 다른 어느 구역보다 건축양식이 획일적이며, 거리마다 배치된 감시 카메라의 밀도도 가장 높다. 신입 각성자는 이곳에서 첫 등급 판정을 받고, 은퇴하거나 순직한 히어로의 이름은 본부 앞뜰의 벽에 새겨진다. 노버스 협회장의 집무실도 이 구역 가장 높은 층에 있는데, 그 층은 회의실보다 시제품 격납고에 가깝다는 소문이 파다하다.",
+      "status": "normal",
+      "anomalies": [],
+      "organization_ids": [
+        "organization.hero-association",
+        "organization.association-training-center",
+        "organization.registration-bureau",
+        "organization.technology-development-team",
+        "organization.reconnaissance-team",
+        "organization.association-board"
+      ],
+      "character_ids": [
+        "character.곽바울",
+        "character.진로하",
+        "character.강태오"
+      ],
+      "event_ids": [],
+      "tags": [
+        "district-03"
+      ],
+      "provenance": {
+        "source_document": "비키니 시티 1차(1).docx",
+        "source_section": "비키니시티 지역 설정 — 1~8구역",
+        "source_index": 3,
+        "paragraph_start": 818,
+        "paragraph_end": 819
+      }
+    },
+    {
+      "id": "location.district-04",
+      "type": "location",
+      "district_number": 4,
+      "name": "일반 거주구역",
+      "alias": null,
+      "description": "가장 평범하고, 그래서 가장 자주 잊히는 곳. 학교와 시장, 병원과 소규모 상점이 늘어선 이 구역에는 각성하지 않은 일반 시민 대다수가 살아간다. 등급도 진영도 없는 삶이 여전히 도시 인구의 절반 이상을 차지한다는 사실을, 화려한 2구역이나 삼엄한 3구역은 종종 잊게 만든다. 히어로들이 순찰이라는 명목으로 가장 자주 걸어 다니는 거리이기도 하며, 서은하(테라) 같은 이가 이 구역 골목의 반찬가게 단골이라는 사실은 주민들 사이에서 은근한 자랑거리로 통한다.",
+      "status": "normal",
+      "anomalies": [],
+      "organization_ids": [
+        "organization.city-repair-crew"
+      ],
+      "character_ids": [
+        "character.오건"
+      ],
+      "event_ids": [],
+      "tags": [
+        "district-04"
+      ],
+      "provenance": {
+        "source_document": "비키니 시티 1차(1).docx",
+        "source_section": "비키니시티 지역 설정 — 1~8구역",
+        "source_index": 4,
+        "paragraph_start": 820,
+        "paragraph_end": 821
+      }
+    },
+    {
+      "id": "location.district-05",
+      "type": "location",
+      "district_number": 5,
+      "name": "고딕 시티",
+      "alias": "네크로폴 지구",
+      "description": "뾰족한 첨탑과 스테인드글라스풍 창문, 안개가 걷히는 법이 없는 좁은 골목으로 이루어진 오래된 거주구역. 도시 재개발의 물결에서 유일하게 비껴간 곳으로, 옛 양식의 건물을 그대로 보존한 대신 채광과 편의시설은 다른 구역에 비해 낙후되어 있다. 이 어둑한 미학을 오히려 선호하는 특수계·그림자 계열 각성자들이 자연스레 모여 살게 되면서, 크림슨 같은 은둔형 인물에게는 오히려 가장 숨쉬기 편한 동네가 되었다. 협회는 이 구역을 \"치안 특이지역\"으로 분류해두었지만, 실제 범죄율은 소문만큼 높지 않다.",
+      "status": "special_security",
+      "anomalies": [],
+      "organization_ids": [],
+      "character_ids": [],
+      "event_ids": [],
+      "tags": [
+        "district-05"
+      ],
+      "provenance": {
+        "source_document": "비키니 시티 1차(1).docx",
+        "source_section": "비키니시티 지역 설정 — 1~8구역",
+        "source_index": 5,
+        "paragraph_start": 822,
+        "paragraph_end": 823
+      }
+    },
+    {
+      "id": "location.district-06",
+      "type": "location",
+      "district_number": 6,
+      "name": "유흥가",
+      "alias": "미라주 거리",
+      "description": "해가 지고 나서야 진짜 얼굴을 드러내는 구역. 카지노와 지하 경매장, 인가받지 않은 정보상들의 은밀한 응접실이 골목마다 자리하고 있으며, 화려한 조명 아래 오가는 것이 전부 합법은 아니라는 사실을 이 구역 사람들은 굳이 숨기지 않는다. 협회의 감시망이 상대적으로 느슨한 회색지대이기에, 카밀라가 계약 상대를 물색하거나 페자가 판돈을 거는 무대로 즐겨 삼는 곳이기도 하다. 낮의 이 구역은 놀라울 만큼 초라하고 조용해서, 처음 방문한 이는 밤과 낮이 같은 거리라는 사실을 좀처럼 믿지 못한다.",
+      "status": "normal",
+      "anomalies": [],
+      "organization_ids": [],
+      "character_ids": [
+        "character.재봉",
+        "character.최나비"
+      ],
+      "event_ids": [],
+      "tags": [
+        "district-06"
+      ],
+      "provenance": {
+        "source_document": "비키니 시티 1차(1).docx",
+        "source_section": "비키니시티 지역 설정 — 1~8구역",
+        "source_index": 6,
+        "paragraph_start": 824,
+        "paragraph_end": 825
+      }
+    },
+    {
+      "id": "location.district-07",
+      "type": "location",
+      "district_number": 7,
+      "name": "빈민구역",
+      "alias": null,
+      "description": "도시 하부 구조와 가장 가까운 곳에 자리해, 상층 구역에서 흘러내리는 것들 — 폐열, 소음, 그리고 관심 밖으로 밀려난 사람들 — 을 고스란히 받아내는 지대. 낡은 배관과 임시 가건물이 뒤엉킨 골목은 협회의 정기 순찰조차 뜸하게 도는 구역으로 꼽힌다. 많은 초기 각성자들이 이곳 출신이며, 힘을 얻고도 협회에 등록하지 않은 채 살아가는 이들의 비율도 도시에서 가장 높다. 마그마 같은 이가 \"뒷골목 양아치\"라는 시선을 대수롭지 않게 여기는 것도, 이 구역에서는 그런 시선 자체가 그리 특별한 것이 아니기 때문이다.",
+      "status": "normal",
+      "anomalies": [],
+      "organization_ids": [],
+      "character_ids": [
+        "character.오건",
+        "character.최나비"
+      ],
+      "event_ids": [],
+      "tags": [
+        "district-07"
+      ],
+      "provenance": {
+        "source_document": "비키니 시티 1차(1).docx",
+        "source_section": "비키니시티 지역 설정 — 1~8구역",
+        "source_index": 7,
+        "paragraph_start": 826,
+        "paragraph_end": 827
+      }
+    },
+    {
+      "id": "location.district-08",
+      "type": "location",
+      "district_number": 8,
+      "name": "균열지대",
+      "alias": null,
+      "description": "한때는 평범한 주거구역이었으나, 노바와 백무결(크로노)의 최후 격돌 이후 지도에서 사실상 지워진 곳. 그날의 여파로 이 구역만은 시간의 흐름과 공간의 좌표가 여전히 온전하지 않다. 어떤 골목은 몇 걸음 만에 계절이 바뀌고, 어떤 건물은 낮에도 이미 무너진 잔해와 무너지기 전의 온전한 형태가 겹쳐 보인다는 목격담이 끊이지 않는다. 협회는 이 구역 전체를 출입 통제 구역으로 지정했지만, 통제란 온전히 이해한 것에만 제대로 걸 수 있는 법이어서, 실질적으로는 봉쇄에 가깝다. 소강기의 평화 아래 가장 먼저 다시 꿈틀거릴 가능성이 있는 곳으로, 협회 내부에서도 이 구역에 관한 보고는 은근히 기피된다.",
+      "status": "restricted",
+      "anomalies": [
+        "시공간 왜곡"
+      ],
+      "organization_ids": [],
+      "character_ids": [
+        "character.오건"
+      ],
+      "event_ids": [
+        "event.nova-chronos-final-clash"
+      ],
+      "tags": [
+        "district-08"
+      ],
+      "provenance": {
+        "source_document": "비키니 시티 1차(1).docx",
+        "source_section": "비키니시티 지역 설정 — 1~8구역",
+        "source_index": 8,
+        "paragraph_start": 828,
+        "paragraph_end": 829
+      }
+    }
+  ]
+}

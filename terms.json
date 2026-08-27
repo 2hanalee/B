@@ -1,0 +1,122 @@
+{
+  "schema_version": "1.0.0",
+  "terms": [
+    {
+      "id": "term.히어로-협회",
+      "type": "term",
+      "name": "히어로 협회",
+      "category": "organization",
+      "definition": "비키니시티의 각성자 등록·관리·파견을 총괄하는 공적 기구.",
+      "official": true,
+      "related_entity_ids": [],
+      "provenance": {
+        "source_document": "비키니 시티 1차(1).docx",
+        "source_paragraph": 833
+      }
+    },
+    {
+      "id": "term.등급-s-d",
+      "type": "term",
+      "name": "등급(S~D)",
+      "category": "system",
+      "definition": "각성자의 전투력과 활용도를 다섯 단계로 구분한 협회 공식 분류 체계.",
+      "official": true,
+      "related_entity_ids": [],
+      "provenance": {
+        "source_document": "비키니 시티 1차(1).docx",
+        "source_paragraph": 835
+      }
+    },
+    {
+      "id": "term.이능력-4대-분류-소환계-강화계-원소계-특수계",
+      "type": "term",
+      "name": "이능력 4대 분류(소환계·강화계·원소계·특수계)",
+      "category": "system",
+      "definition": "협회가 각성 초기의 혼란을 정리하기 위해 도입한 분류 체계.",
+      "official": true,
+      "related_entity_ids": [],
+      "provenance": {
+        "source_document": "비키니 시티 1차(1).docx",
+        "source_paragraph": 837
+      }
+    },
+    {
+      "id": "term.그레이존",
+      "type": "term",
+      "name": "그레이존",
+      "category": "classification",
+      "definition": "협회의 히어로/빌런 이분법에 온전히 속하지 않는 자들을 가리키는 비공식 용어.",
+      "official": false,
+      "related_entity_ids": [],
+      "provenance": {
+        "source_document": "비키니 시티 1차(1).docx",
+        "source_paragraph": 839
+      }
+    },
+    {
+      "id": "term.협회장",
+      "type": "term",
+      "name": "협회장",
+      "category": "organization_role",
+      "definition": "협회의 최고 의사결정권자.",
+      "official": true,
+      "related_entity_ids": [],
+      "provenance": {
+        "source_document": "비키니 시티 1차(1).docx",
+        "source_paragraph": 841
+      }
+    },
+    {
+      "id": "term.능력자-등록-제도",
+      "type": "term",
+      "name": "능력자 등록 제도",
+      "category": "system",
+      "definition": "모든 각성자가 협회에 자신의 이능력 정보와 활동 기록을 신고하도록 규정한 제도.",
+      "official": true,
+      "related_entity_ids": [],
+      "provenance": {
+        "source_document": "비키니 시티 1차(1).docx",
+        "source_paragraph": 843
+      }
+    },
+    {
+      "id": "term.성유물",
+      "type": "term",
+      "name": "성유물",
+      "category": "artifact",
+      "definition": "특정 명가에 대대로 전승되는 강화계 매개체.",
+      "official": true,
+      "related_entity_ids": [],
+      "provenance": {
+        "source_document": "비키니 시티 1차(1).docx",
+        "source_paragraph": 845
+      }
+    },
+    {
+      "id": "term.관찰대상",
+      "type": "term",
+      "name": "관찰대상",
+      "category": "classification",
+      "definition": "협회의 기존 분류 체계로 설명되지 않는 존재에게 부여되는 임시 지위.",
+      "official": true,
+      "related_entity_ids": [],
+      "provenance": {
+        "source_document": "비키니 시티 1차(1).docx",
+        "source_paragraph": 847
+      }
+    },
+    {
+      "id": "term.8구역-현상",
+      "type": "term",
+      "name": "8구역 현상",
+      "category": "phenomenon",
+      "definition": "노바와 백무결의 최후 격돌 이후 8구역 일대에서 관측되는 시공간 왜곡 현상을 통칭하는 협회 공식 용어.",
+      "official": true,
+      "related_entity_ids": [],
+      "provenance": {
+        "source_document": "비키니 시티 1차(1).docx",
+        "source_paragraph": 849
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0.0",
+  "artifacts": [
+    {
+      "id": "artifact.sacred-relic",
+      "type": "artifact",
+      "name": "성유물",
+      "description": "특정 명가에 대대로 전승되는 강화계 매개체. 착용자의 혈통이나 자격에 반응해 갑주나 무기의 형태로 발현된다.",
+      "user_ids": [
+        "character.아우라",
+        "character.로열",
+        "character.진로하"
+      ],
+      "provenance": {
+        "source_document": "비키니 시티 1차(1).docx",
+        "source_paragraph": 845
+      }
+    }
+  ]
+}

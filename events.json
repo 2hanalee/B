@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0.0",
+  "events": [
+    {
+      "id": "event.association-foundation",
+      "name": "협회의 시작",
+      "era_id": "era.01",
+      "description": "과도기의 끝자락, 이름 없는 힘을 다루던 이들을 하나둘 그러모아 훗날 협회라 불리게 될 것의 첫 벽돌을 놓은 시점.",
+      "character_ids": [],
+      "location_ids": [],
+      "organization_ids": [
+        "organization.hero-association"
+      ],
+      "provenance": {
+        "source_paragraph": 856
+      }
+    },
+    {
+      "id": "event.nova-chronos-final-clash",
+      "name": "노바와 백무결의 최후 격돌",
+      "era_id": "era.02",
+      "description": "협회가 세워진 이래 가장 강한 자로 꼽히던 히어로와 거주 구역 하나를 뒤틀어버릴 만한 힘을 지닌 자의 격돌. 백무결은 남은 시간을 대가로 상대의 힘의 천장을 봉인했다.",
+      "character_ids": [
+        "character.노바",
+        "character.크로노"
+      ],
+      "location_ids": [
+        "location.district-08"
+      ],
+      "organization_ids": [
+        "organization.hero-association"
+      ],
+      "provenance": {
+        "source_paragraph": 861
+      }
+    },
+    {
+      "id": "event.infection-gender-change",
+      "name": "인펙션 능력의 이례적 부작용",
+      "era_id": "era.03",
+      "description": "감염을 다루는 자의 손끝에서 태어난 병이 사람의 몸을 해치는 대신 사람의 성별을 바꾸어놓은 사례가 기록된다.",
+      "character_ids": [
+        "character.인펙션",
+        "character.알파"
+      ],
+      "location_ids": [],
+      "organization_ids": [],
+      "provenance": {
+        "source_paragraph": 867
+      }
+    }
+  ]
+}

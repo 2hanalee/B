@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0.0",
+  "classes": [
+    {
+      "id": "ability-class.summoning",
+      "name": "소환계",
+      "description": "별도의 개체나 사물을 불러내는 힘",
+      "official": true
+    },
+    {
+      "id": "ability-class.enhancement",
+      "name": "강화계",
+      "description": "신체·장비 능력치를 끌어올리는 힘",
+      "official": true
+    },
+    {
+      "id": "ability-class.elemental",
+      "name": "원소계",
+      "description": "화염·냉기·번개 등 자연 요소를 다루는 힘",
+      "official": true
+    },
+    {
+      "id": "ability-class.special",
+      "name": "특수계",
+      "description": "소환·강화·원소에 속하지 않는 나머지",
+      "official": true
+    }
+  ]
+}

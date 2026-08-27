@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.0.0",
+  "organizations": [
+    {
+      "id": "organization.hero-association",
+      "name": "히어로 협회",
+      "type": "organization",
+      "category": "public",
+      "description": "비키니시티의 각성자 등록·관리·파견을 총괄하는 공적 기구. 진영(히어로/빌런) 구분과 무관하게 모든 각성자의 존재를 파악하는 것을 표면상의 목적으로 내세우지만, 실질적으로는 히어로 진영의 인력 운용 기관에 가깝다.",
+      "headquarters_location_id": "location.district-03",
+      "parent_organization_id": null,
+      "provenance": {
+        "source_paragraph": 833
+      }
+    },
+    {
+      "id": "organization.association-training-center",
+      "name": "협회 훈련소",
+      "type": "organization",
+      "category": "association_unit",
+      "description": "신입 각성자들을 실전 투입 가능한 수준까지 훈련시키는 협회 산하 훈련소.",
+      "parent_organization_id": "organization.hero-association",
+      "location_id": "location.district-03",
+      "provenance": {
+        "source_paragraph": 754
+      }
+    },
+    {
+      "id": "organization.registration-bureau",
+      "name": "등록 관리국",
+      "type": "organization",
+      "category": "association_unit",
+      "description": "각성자의 첫 등급 판정과 등록 관련 업무가 이루어지는 협회 산하 조직.",
+      "parent_organization_id": "organization.hero-association",
+      "location_id": "location.district-03",
+      "provenance": {
+        "source_paragraph": 819
+      }
+    },
+    {
+      "id": "organization.technology-development-team",
+      "name": "기술개발팀",
+      "type": "organization",
+      "category": "association_unit",
+      "description": "히어로 진영의 공식 슈트·인식표·성유물 정비를 담당하는 협회 산하 기술개발팀.",
+      "parent_organization_id": "organization.hero-association",
+      "location_id": "location.district-03",
+      "provenance": {
+        "source_paragraphs": [
+          341,
+          819
+        ]
+      }
+    },
+    {
+      "id": "organization.public-relations-office",
+      "name": "협회 홍보실",
+      "type": "organization",
+      "category": "association_unit",
+      "description": "히어로 활동과 전투 사건에 대한 여론 관리, 언론 대응, 대외 이미지 통제를 총괄한다.",
+      "parent_organization_id": "organization.hero-association",
+      "location_id": "location.district-02",
+      "provenance": {
+        "source_paragraphs": [
+          392,
+          394
+        ]
+      }
+    },
+    {
+      "id": "organization.reconnaissance-team",
+      "name": "협회 정찰팀",
+      "type": "organization",
+      "category": "association_unit",
+      "description": "협회 정찰 임무를 수행하는 팀으로 원문에서 정찰팀 구성원과 활동이 언급된다.",
+      "parent_organization_id": "organization.hero-association",
+      "location_id": "location.district-03",
+      "provenance": {
+        "source_paragraph": 448
+      }
+    },
+    {
+      "id": "organization.association-board",
+      "name": "협회 이사회",
+      "type": "organization",
+      "category": "governance",
+      "description": "협회장을 견제하고 신규 프로젝트 및 절차에 관여하는 이사회.",
+      "parent_organization_id": "organization.hero-association",
+      "location_id": "location.district-03",
+      "provenance": {
+        "source_paragraphs": [
+          841
+        ]
+      }
+    },
+    {
+      "id": "organization.city-repair-crew",
+      "name": "시청 산하 복구반",
+      "type": "organization",
+      "category": "municipal",
+      "description": "전투로 파괴된 건물과 도로, 배관 시설을 정비·복구하는 시청 산하 복구반.",
+      "parent_organization_id": null,
+      "location_id": "location.district-04",
+      "provenance": {
+        "source_paragraphs": [
+          783,
+          784
+        ]
+      }
+    }
+  ]
+}
