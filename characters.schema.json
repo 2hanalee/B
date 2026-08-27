@@ -1,0 +1,8 @@
+{
+  "title": "Bikini City Character Dataset",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "characters"
+  ]
+}
